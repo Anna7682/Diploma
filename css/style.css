@@ -651,6 +651,7 @@ display: flex;
     width: calc(100% - 305px);
   }
 }
+
 .blocks {
   display: flex;
   margin-bottom: 61px;
@@ -770,6 +771,7 @@ padding-bottom: 35px;
   .mail-button {
     align-items: center;
     justify-content: center;
+}
 }
 
 @media (min-width: 320px) and (max-width: 767px) and (orientation: portrait) {
@@ -1207,8 +1209,6 @@ margin-bottom: 50px;
     font-size: 17px;
     padding-bottom: 10px;
   }
-  .product-body {
-
 }
 
 @media (min-width: 320px) and (max-width: 767px) and (orientation: portrait) {
